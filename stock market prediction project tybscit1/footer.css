@@ -1,0 +1,74 @@
+﻿
+
+ .footer
+      {
+          position:inherit;
+          bottom:0;
+          width:100%;
+          background:white;
+                    
+      }
+      .navbar
+      {
+        
+          background:white;
+      }
+      .nav
+      {
+        
+          background:white;
+      }
+
+        .style1
+      {
+          color:Black);
+           font-family:Arial;
+      }
+      .style2
+      {
+          float: left;
+          height: 60px;
+          padding: 20px 15px;
+          font-size: 18px;
+          line-height: 20px;
+          color:Black);
+           font-family:Arial;
+      }
+   
+
+         .style5
+         {
+             color:Black);
+             font-family: Arial;
+         }
+         .style6
+         {
+             color: #Black);
+         }
+         .style7
+         {
+             border-style: none;
+             border-color: inherit;
+             border-width: 0;
+             position: absolute;
+             width: 1px;
+             height: 1px;
+             padding: 0;
+             margin: -1px;
+             overflow: hidden;
+             clip: rect(0, 0, 0, 0);
+             color: #99FF66;
+         }
+
+         
+         .fc
+         {
+             border-radius:25px;
+             border-color:Black);
+             
+         }
+     .style8
+     {
+         color: #000000;
+         background-color: Black);
+     }
